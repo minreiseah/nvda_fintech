@@ -1,0 +1,8 @@
+name: nvda_fintech
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - ipykernel
+prefix: /home/minrei/anaconda3/envs/nvda_fintech
